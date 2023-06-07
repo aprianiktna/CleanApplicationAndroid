@@ -1,0 +1,2 @@
+# CleanApplicationAndroid
+CleanApplicationAndroid
